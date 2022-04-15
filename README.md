@@ -64,8 +64,8 @@ utilizando as bibliotecas Apache Spark e Pandas, e migração de dados On-Premis
 ## GitHub Stats 📈
 
 <div>
-    <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=joaoallmeida&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img align="" width="55%" height='149px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoallmeida&layout=compact&theme=tokyonight"/>
+    <img align="" height='144px' src="https://github-readme-stats.vercel.app/api?username=joaoallmeida&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img align="" height='144px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoallmeida&layout=compact&theme=tokyonight"/>
 </div>
 
 ## Estudando Atualmente 🧠
