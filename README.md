@@ -1,7 +1,7 @@
 # Eae Galera ✌, João aqui ! 
 
-Sou engenheiro de dados jr e um grande fã do desenvolvimento back-end.Tenho experiencia com programação em python com foco em manipulação de dados,
-utilizando as bibliotecas Apache Spark e Pandas, e migração de dados On-Premises para Cloud.
+Sou engenheiro de dados jr e um grande fã do desenvolvimento back-end. Tenho experiencia com programação em python com foco em manipulação de dados,
+utilizando as bibliotecas *apache spark* e *pandas*, e migração de dados on-premises para cloud.
 
 
 <div align="center">
@@ -76,5 +76,6 @@ utilizando as bibliotecas Apache Spark e Pandas, e migração de dados On-Premis
 ---
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=joaoallmeida&style=for-the-badge&label=Visualizacões+no+perfil&color=green")>
+    <img src="https://komarev.com/ghpvc/?username=joaoallmeida&style=for-the-badge&label=Visualizacões+no+perfil&color=green">
+    <img src="https://img.shields.io/github/followers/joaoallmeida?style=for-the-badge&label=Seguidores&color=green">
 </div>
