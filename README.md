@@ -64,10 +64,17 @@ utilizando as bibliotecas *apache spark* e *pandas*, e migração de dados on-pr
 
 ## GitHub Stats 📈
 
-<div align="center">
+<!-- <div align="center">
     <img align="" height='144px' src="https://github-readme-stats.vercel.app/api?username=joaoallmeida&count_private=true&show_icons=true&theme=tokyonight"/>
     <img align="" height='144px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoallmeida&layout=compact&theme=tokyonight"/>
+</div> -->
+
+
+<div align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=joaoallmeida&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /> 
+        <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoallmeida&hide=html&hide_title=true&hide_border=true&theme=tokyonight"/>
 </div>
+
 
 ## Estudando Atualmente 🧠
  - ![Jenkins!](https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=black)
