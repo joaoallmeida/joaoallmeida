@@ -1,5 +1,6 @@
-# Eae Galera ✌, João Almeida aqui ! 
-Sou engenheiro de dados com foco em cloud computing. Tenho experiencias com programação em python para transformação de dados,
+# Eae Galera ✌, João aqui ! 
+
+Sou engenheiro de dados jr e um grande fã do desenvolvimento back-end.Tenho experiencia com programação em python com foco em manipulação de dados,
 utilizando as bibliotecas Apache Spark e Pandas, e migração de dados On-Premises para Cloud.
 
 
