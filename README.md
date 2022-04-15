@@ -58,25 +58,22 @@ utilizando as bibliotecas Apache Spark e Pandas, e migração de dados On-Premis
 </div>
 
 <div align="center"> 
-    <img src="https://img.shields.io/badge/%20-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+    <a><img src="https://img.shields.io/badge/%20-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
 </div>
 
 ## GitHub Stats 📈
 
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoallmeida&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoallmeida&theme=tokyonight"/>
+    <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=joaoallmeida&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img align="" width="55%" height='149px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoallmeida&layout=compact&theme=tokyonight"/>
 </div>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=joaoallmeidaheight="35"&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoallmeida&theme=radical) -->
 
 ## Estudando Atualmente 🧠
  - ![Jenkins!](https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=black)
- - Patricas e técnicas de automatização de deploy (CI/CD).
+ - Práticas e técnicas de integração contínua e entrega contínua (CI/CD).
+
+---
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=joaoallmeida&style=for-the-badge&label=Visualizacões+no+perfil&color=green")>
 </div>
-
-<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
