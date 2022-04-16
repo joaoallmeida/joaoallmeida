@@ -4,7 +4,7 @@ I am currently a jr data engineer at Deal Technologies. I'm a big fan of *back-e
 I have experience with programming in C# and Python with a focus on data manipulation, using the *apache spark* and *pandas* libraries and on on-premises data migration to the cloud.
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-a-soares-939b78158/" target="_blank"> 
+    <a href="#" onclick='window.open("https://www.linkedin.com/in/jo%C3%A3o-victor-a-soares-939b78158/");return false;' > 
         <img alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge">
     </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/jaoallmeida_" target="_blank"> 
