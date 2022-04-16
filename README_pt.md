@@ -1,33 +1,21 @@
-# Hey Guys ✌, João here ! 
+# E aí Galera ✌, João aqui ! 
 
-I am currently a jr data engineer at Deal Technologies. I'm a big fan of *back-end* development and an enthusiast of automating routines and troubleshooting.
-I have experience with programming in C# and Python with a focus on data manipulation, using the *apache spark* and *pandas* libraries and on on-premises data migration to the cloud.
+Atualmente sou engenheiro de dados jr na Deal Technologies. Sou um grande fã do desenvolvimento *back-end* e entusiasta em automatização de rotinas e na solução de problemas.
+Tenho experiencia com programação em C# e Python com foco em manipulação de dados, utilizando as bibliotecas *apache spark* e *pandas* e em migração de dados on-premises para cloud.
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-a-soares-939b78158/" target="_blank"> 
         <img alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
-    </a>&nbsp;&nbsp;
+    </a>
     <a href="https://www.instagram.com/jaoallmeida_" target="_blank" > 
         <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" target="_blank">
-    </a>&nbsp;&nbsp;
+    </a>
     <a href="mailto:joaoallmeida96@gmail.com?subject=Olá%20João%20Almeida"> 
         <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white">
     </a> 
-    <table align="right">
-        <tr>
-            <td>
-                <a href="README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/united-states-of-america-flag-country-nation-union-empire-33135.png" height="13"> English</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="README_pt.md"><img src="https://cdn.iconscout.com/icon/free/png-256/brazil-flag-country-nation-union-empire-32937.png" height="13"> Português</a>
-            </td>
-        </tr>
-    </table>
 </div>
 
-## Technologies and Tools 🛠
+## Tecnologias e Ferramentas 🛠
 
 <div align="center"> 
     <img  src="https://img.shields.io/badge/%20-docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white"> 
@@ -76,7 +64,7 @@ I have experience with programming in C# and Python with a focus on data manipul
     <a><img src="https://img.shields.io/badge/%20-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
 </div>
 
-## GitHub Stats 📈
+## Estatisticas do GitHub 📈
 
 <div align="center">
     <img  height='137px' src="https://github-readme-stats.vercel.app/api?username=joaoallmeida&hide_title=true&count_private=true&show_icons=true&theme=tokyonight"/>
@@ -84,7 +72,7 @@ I have experience with programming in C# and Python with a focus on data manipul
 </div>
 
 
-## Currently Learning 🧠
+## Atualmente Aprendendo 🧠
 ![Jenkins!](https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=black)
 ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 ![ApacheHive](https://img.shields.io/badge/-Apache%20Hive-%23FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black)
@@ -96,12 +84,12 @@ I have experience with programming in C# and Python with a focus on data manipul
 ![Terraform](https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
 ![MapReduce](https://img.shields.io/badge/-MapReduce-%23FECC00?style=for-the-badge&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white)
+![](?style=for-the-badge&logo=&logoColor=white)
 
-<!-- ![](?style=for-the-badge&logo=&logoColor=white) -->
-
+ <!-- - Práticas e técnicas de integração contínua e entrega contínua (CI/CD). -->
 ---
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=joaoallmeida&style=for-the-badge&label=Profile+Views&color=green">
-    <img src="https://img.shields.io/github/followers/joaoallmeida?style=for-the-badge&label=Followers&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=joaoallmeida&style=for-the-badge&label=Visualizacões+no+perfil&color=green">
+    <img src="https://img.shields.io/github/followers/joaoallmeida?style=for-the-badge&label=Seguidores&color=blue">
 </div>
