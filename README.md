@@ -49,8 +49,8 @@ I have experience with programming in C# and Python with a focus on data manipul
 </div>
 
 <div align="center"> 
-    <img  src="https://img.shields.io/badge/-Termial%20Commands-%23241F31?style=for-the-badge&logo=GNOME Terminal&logoColor=white">
-    <img  src="https://img.shields.io/badge/-SQL%20Server%20Integration%20Services%20-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+    <img  src="https://img.shields.io/badge/-Terminal%20Commands-%23241F31?style=for-the-badge&logo=GNOME Terminal&logoColor=white">
+    <img  src="https://img.shields.io/badge/-SQL%20Integration%20Services%20-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
     <img  src="https://img.shields.io/badge/-Microsoft%20Azure-%230078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
 </div>
 
