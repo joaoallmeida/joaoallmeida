@@ -15,7 +15,7 @@
 
 <br>
 
-## About me
+## About me 📝
 
 I am currently a jr data engineer at Deal Technologies. I'm a big fan of *back-end* development and an enthusiast of automating routines and troubleshooting.
 I have experience with programming in C# and Python with a focus on data manipulation, using the *apache spark* and *pandas* libraries and on on-premises data migration to the cloud.
@@ -24,11 +24,7 @@ I have experience with programming in C# and Python with a focus on data manipul
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-a-soares-939b78158/" target="_blank"> 
-<<<<<<< HEAD
         <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
-=======
-        <img alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge">
->>>>>>> ed252630f3514da9fcb573a932eb4acaf57ca216
     </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/jaoallmeida_" target="_blank"> 
         <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white">
