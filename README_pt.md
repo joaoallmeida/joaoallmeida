@@ -1,7 +1,10 @@
-# E aí Galera ✌, João aqui ! 
+<h1 align="center"> E aí Galera ✌, João aqui ! </h1>
 
+## Sobre mim
 Atualmente sou engenheiro de dados jr na Deal Technologies. Sou um grande fã do desenvolvimento *back-end* e entusiasta em automatização de rotinas e na solução de problemas.
 Tenho experiencia com programação em C# e Python com foco em manipulação de dados, utilizando as bibliotecas *apache spark* e *pandas* e em migração de dados on-premises para cloud.
+
+## Contatos 📞
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-a-soares-939b78158/" target="_blank"> 

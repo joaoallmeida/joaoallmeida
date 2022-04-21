@@ -1,11 +1,30 @@
-# Hey Guys ✌, João here ! 
+<h1 align="center"> Hey Guys ✌, João here ! </h1>
+
+<table align="right">
+    <tr>
+        <td>
+            <a href="README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/united-states-of-america-flag-country-nation-union-empire-33135.png" height="13"> English</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="README_pt.md"><img src="https://cdn.iconscout.com/icon/free/png-256/brazil-flag-country-nation-union-empire-32937.png" height="13"> Português</a>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+## About me
 
 I am currently a jr data engineer at Deal Technologies. I'm a big fan of *back-end* development and an enthusiast of automating routines and troubleshooting.
 I have experience with programming in C# and Python with a focus on data manipulation, using the *apache spark* and *pandas* libraries and on on-premises data migration to the cloud.
 
+## Contacts 📞
+
 <div align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-a-soares-939b78158/" target="_blank"> 
-        <img alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
+        <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
     </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/jaoallmeida_" target="_blank" > 
         <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" target="_blank">
@@ -13,18 +32,6 @@ I have experience with programming in C# and Python with a focus on data manipul
     <a href="mailto:joaoallmeida96@gmail.com?subject=Olá%20João%20Almeida"> 
         <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white">
     </a> 
-    <table align="right">
-        <tr>
-            <td>
-                <a href="README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/united-states-of-america-flag-country-nation-union-empire-33135.png" height="13"> English</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="README_pt.md"><img src="https://cdn.iconscout.com/icon/free/png-256/brazil-flag-country-nation-union-empire-32937.png" height="13"> Português</a>
-            </td>
-        </tr>
-    </table>
 </div>
 
 ## Technologies and Tools 🛠
