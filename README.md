@@ -24,12 +24,16 @@ I have experience with programming in C# and Python with a focus on data manipul
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-a-soares-939b78158/" target="_blank"> 
+<<<<<<< HEAD
         <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
+=======
+        <img alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge">
+>>>>>>> ed252630f3514da9fcb573a932eb4acaf57ca216
     </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/jaoallmeida_" target="_blank" > 
-        <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" target="_blank">
+    <a href="https://www.instagram.com/jaoallmeida_" target="_blank"> 
+        <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white">
     </a>&nbsp;&nbsp;
-    <a href="mailto:joaoallmeida96@gmail.com?subject=Olá%20João%20Almeida"> 
+    <a href="mailto:joaoallmeida96@gmail.com?subject=Olá%20João%20Almeida" target="_blank"> 
         <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white">
     </a> 
 </div>
