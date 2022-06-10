@@ -1,3 +1,5 @@
+<img align="center" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="100%" height="400"> 
+
 <h1 align="center"> Hey Guys ✌, João here ! </h1>
 
 <table align="right">
