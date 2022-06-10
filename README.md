@@ -1,6 +1,6 @@
-<img align="center" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="100%" height="400"> 
+<img align="center" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="100%" height="400"><br>
 
-<h1 align="center"> Hey Guys ✌, João here ! </h1>
+<h1 align="center"> Hey Guys ✌ Welcome to my profile !</h1>
 
 <table align="right">
     <tr>
@@ -18,6 +18,8 @@
 <br>
 
 ## About me 📝
+
+I'am João Soares, I'm 21 years old.
 
 I am currently a jr data engineer at Deal Technologies. I'm a big fan of *back-end* development and an enthusiast of automating routines and troubleshooting.
 I have experience with programming in C# and Python with a focus on data manipulation, using the *apache spark* and *pandas* libraries and on on-premises data migration to the cloud.

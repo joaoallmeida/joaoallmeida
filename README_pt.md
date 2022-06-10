@@ -1,8 +1,10 @@
-<img align="center" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="100%" height="400"> 
+<img align="center" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="100%" height="400"><br>
 
-<h1 align="center"> E aí Galera ✌, João aqui ! </h1>
+<h1 align="center"> E aí Galera ✌ Bem vindo ao meu perfil ! </h1>
 
-## Sobre mim
+## Sobre mim 📝
+Sou João Soares, tenho 21 anos.
+
 Atualmente sou engenheiro de dados jr na Deal Technologies. Sou um grande fã do desenvolvimento *back-end* e entusiasta em automatização de rotinas e na solução de problemas.
 Tenho experiencia com programação em C# e Python com foco em manipulação de dados, utilizando as bibliotecas *apache spark* e *pandas* e em migração de dados on-premises para cloud.
 
