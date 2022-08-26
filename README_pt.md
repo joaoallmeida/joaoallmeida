@@ -79,14 +79,14 @@ Tenho experiencia com programação em Python com foco em manipulação de dados
 </div>
 
 
-# Certificações
+## Certificações
 <div align="center">
     <img height='165px' src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=53242611"> 
     <img height='165px' src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=55806616"> 
 </div>
 
 
-# Atualmente Aprendendo 🧠
+## Atualmente Aprendendo 🧠
 
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-%2366CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black)
