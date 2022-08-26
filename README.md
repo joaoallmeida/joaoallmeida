@@ -99,6 +99,7 @@ I have experience with programming in Python with a focus on data manipulation, 
 <div align="center">
     <img height='165px' src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=53242611"> 
     <img height='165px' src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=55806616"> 
+    <img height='165px' src="https://images.credly.com/size/340x340/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png"> 
 </div>
 
 
