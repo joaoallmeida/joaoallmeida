@@ -79,7 +79,7 @@ Tenho experiencia com programação em Python com foco em manipulação de dados
 </div>
 
 
-## Certificações
+## Certificações 🏆
 <div align="center">
     <img height='165px' src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=53242611"> 
     <img height='165px' src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=55806616">
@@ -88,20 +88,30 @@ Tenho experiencia com programação em Python com foco em manipulação de dados
 
 
 ## Atualmente Aprendendo 🧠
+<div>
+    <img src="https://img.shields.io/badge/%20-JavaScript-%23F7DF1E/?style=for-the-badge&logo=JavaScript&color=black">
+    <img src="https://img.shields.io/badge/-Node.js-%23339933/?style=for-the-badge&logo=node.js&logoColor=black">
+</div>
 
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-%2366CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+<div>
+    <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white">
+    <img src="https://img.shields.io/badge/-Apache%20Hadoop-%2366CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">
+    <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+</div>
 
-![Serverless](https://img.shields.io/badge/-Serverless-%23FD5750?style=for-the-badge&logo=Serverless&logoColor=white)
-![Jenkins!](https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-%2329B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
+<div>
+    <img src="https://img.shields.io/badge/-Serverless-%23FD5750?style=for-the-badge&logo=Serverless&logoColor=white">
+    <img src="https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=black">
+    <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white">
+    <img src="https://img.shields.io/badge/-Snowflake-%2329B5E8?style=for-the-badge&logo=Snowflake&logoColor=white">
+</div>
 
-![Cloud Architecture ](https://img.shields.io/badge/-Cloud%20Architecture-%233693F3?style=for-the-badge&logo=iCloud&logoColor=white)
-![ApacheHive](https://img.shields.io/badge/-Apache%20Hive-%23FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black)
-![Terraform](https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
-![MapReduce](https://img.shields.io/badge/-MapReduce-%23FECC00?style=for-the-badge&logoColor=white)
+<div>
+    <img src="https://img.shields.io/badge/-Cloud%20Architecture-%233693F3?style=for-the-badge&logo=iCloud&logoColor=white">
+    <img src="https://img.shields.io/badge/-Apache%20Hive-%23FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black">
+    <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/-MapReduce-%23FECC00?style=for-the-badge&logoColor=white">
+</div>
 
 
  <!-- - Práticas e técnicas de integração contínua e entrega contínua (CI/CD). -->
