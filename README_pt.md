@@ -3,7 +3,7 @@
 <h1 align="center"> E aí Galera ✌ Bem vindo ao meu perfil ! </h1>
 
 ## Sobre mim 📝
-Sou João Soares, tenho 21 anos.
+Sou João Soares, tenho 22 anos.
 
 Atualmente sou engenheiro de dados na Deal Technologies. Sou um grande fã do desenvolvimento de *Big Data* e entusiasta em automatização de rotinas e na solução de problemas.
 Tenho experiencia com programação em Python com foco em manipulação de dados, utilizando as bibliotecas *apache spark* e *pandas* e em migração de dados on-premises para cloud.
