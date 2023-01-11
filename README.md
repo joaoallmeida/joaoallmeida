@@ -19,7 +19,7 @@
 
 ## About me 📝
 
-I'am João Soares, I'm 21 years old.
+I'am João Soares, I'm 22 years old.
 
 I am currently a data engineer at Deal Technologies. I'm a big fan of *Big Data* development and an enthusiast of automating routines and troubleshooting.
 I have experience with programming in Python with a focus on data manipulation, using the *apache spark* and *pandas* libraries and on on-premises data migration to the cloud.
