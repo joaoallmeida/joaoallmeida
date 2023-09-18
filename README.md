@@ -48,7 +48,7 @@ I have experience with programming in Python with a focus on data manipulation, 
     <img  src="https://img.shields.io/badge/%20-Linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=black">
     <img  src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
     <img  src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white">
-    <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white">
 </div>
 
 <div align="center"> 
@@ -58,7 +58,7 @@ I have experience with programming in Python with a focus on data manipulation, 
     <img src="https://img.shields.io/badge/-Power%20BI-%23F2C811?style=for-the-badge&logo=Power BI&logoColor=black">
     <img src="https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white">
     <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=black">
-    <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white">
+    <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
     
 </div>
 
