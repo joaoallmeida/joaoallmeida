@@ -48,6 +48,7 @@ I have experience with programming in Python with a focus on data manipulation, 
     <img  src="https://img.shields.io/badge/%20-Linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=black">
     <img  src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
     <img  src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
 </div>
 
 <div align="center"> 
@@ -57,10 +58,14 @@ I have experience with programming in Python with a focus on data manipulation, 
     <img src="https://img.shields.io/badge/-Power%20BI-%23F2C811?style=for-the-badge&logo=Power BI&logoColor=black">
     <img src="https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white">
     <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=black">
+    <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white">
+    
 </div>
 
 <div align="center"> 
-    <img  src="https://img.shields.io/badge/-Terminal%20Commands-%23241F31?style=for-the-badge&logo=GNOME Terminal&logoColor=white">
+<!--     <img  src="https://img.shields.io/badge/-Terminal%20Commands-%23241F31?style=for-the-badge&logo=GNOME Terminal&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/-Node.js-%23339933/?style=for-the-badge&logo=node.js&logoColor=black">
+    <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white">
     <img  src="https://img.shields.io/badge/-SQL%20Integration%20Services%20-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
     <img  src="https://img.shields.io/badge/-Microsoft%20Azure-%230078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
 </div>
@@ -80,7 +85,8 @@ I have experience with programming in Python with a focus on data manipulation, 
 
 <div align="center"> 
     <img  src="https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=yellow">
-    <img  src="https://img.shields.io/badge/-C%20Sharp-%23239120?style=for-the-badge&logo=C Sharp&logoColor=white"> 
+    <img  src="https://img.shields.io/badge/-C%20Sharp-%23239120?style=for-the-badge&logo=C Sharp&logoColor=white">
+    
 </div>
 
 <div align="center"> 
@@ -104,15 +110,13 @@ I have experience with programming in Python with a focus on data manipulation, 
 </div>
 
 
-## Currently Learning 🧠
+<!-- ## Currently Learning 🧠
 
-<div>
+ <div>
     <img src="https://img.shields.io/badge/%20-JavaScript-%23F7DF1E/?style=for-the-badge&logo=JavaScript&color=black">
-    <img src="https://img.shields.io/badge/-Node.js-%23339933/?style=for-the-badge&logo=node.js&logoColor=black">
 </div>
 
 <div>
-    <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white">
     <img src="https://img.shields.io/badge/-Apache%20Hadoop-%2366CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">
     <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 </div>
@@ -127,9 +131,8 @@ I have experience with programming in Python with a focus on data manipulation, 
 <div>
     <img src="https://img.shields.io/badge/-Cloud%20Architecture-%233693F3?style=for-the-badge&logo=iCloud&logoColor=white">
     <img src="https://img.shields.io/badge/-Apache%20Hive-%23FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black">
-    <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
     <img src="https://img.shields.io/badge/-MapReduce-%23FECC00?style=for-the-badge&logoColor=white">
-</div>
+ </div> -->
 
 <!-- ![](?style=for-the-badge&logo=&logoColor=white) -->
 
