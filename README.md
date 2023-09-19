@@ -27,7 +27,7 @@ I have experience with programming in Python with a focus on data manipulation, 
 ## Contacts 📞
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-a-soares-939b78158/" target="_blank"> 
+    <a href="https://www.linkedin.com/in/joaovictorasoares/" target="_blank"> 
         <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
     </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/jaoallmeida_" target="_blank"> 
