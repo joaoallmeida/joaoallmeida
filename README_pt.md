@@ -3,10 +3,12 @@
 <h1 align="center"> E aí Galera ✌ Bem vindo ao meu perfil ! </h1>
 
 ## Sobre mim 📝
-Sou João Soares, tenho 22 anos.
 
-Sou engenheiro de dados e grande fã de desenvolvimento de *Big Data* e entusiasta em automatização de rotinas e resolução de problemas.
-Tenho experiência com programação em Python com foco em manipulação de dados, utilizando as bibliotecas *apache spark* e *pandas* e migrando dados on-premises para nuvem.
+Sou um engenheiro de dados motivado e apaixonado por automatizar fluxos de trabalho e enfrentar desafios complexos de dados. Combino ampla experiência em Python com domínio de bibliotecas de manipulação de dados como Apache Spark e Pandas, o que me permite gerenciar e transformar com eficiência conjuntos de dados massivos.
+
+Minha experiência vai além da infraestrutura local, já trabalhei com grandes pilhas de nuvens como AWS e Azure. Na nuvem AWS, sou proficiente em aproveitar serviços como S3, Redshift, Glue e Lambda para construir pipelines de dados robustos e escaláveis e no Azure usei serviços Blob, ADF e Synapse para construir pipelines.
+
+Trabalhei com a Databricks para migrar dados para a nuvem, podendo desta forma gerar otimização de custos de armazenamento e processamento e garantir a disponibilidade e segurança de informações críticas.
 
 ## Contatos 📞
 
