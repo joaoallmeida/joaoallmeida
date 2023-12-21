@@ -19,10 +19,11 @@
 
 ## About me 📝
 
-I'am João Soares, I'm 22 years old.
+I'm a driven data engineer with a passion for automating workflows and tackling complex data challenges. I combine extensive experience in Python with mastery of data manipulation libraries like Apache Spark and Pandas, enabling me to efficiently manage and transform massive datasets.
 
-I'm a data engineer and a big fan of *Big Data* development and an enthusiast in automating routines and problem solving.
-I have experience with programming in Python with a focus on data manipulation, using the *apache spark* and *pandas* libraries and migrating on-premises data to the cloud.
+My experience goes beyond on-premises infrastructure, I've worked with large cloud stacks like AWS and Azure. In AWS cloud, I am proficient in leveraging services like S3, Redshift, Glue and Lambda to build robust and scalable data pipelines and in Azure I have used Blob, ADF and Synapse services to build pipelines.
+
+I worked with Databricks to migrate data to the cloud, so I can optimize storage and processing costs and ensure the availability and security of critical information.
 
 ## Contacts 📞
 
