@@ -23,7 +23,7 @@ I'm a driven data engineer with a passion for automating workflows and tackling 
 
 My experience goes beyond on-premises infrastructure, I've worked with large cloud stacks like AWS and Azure. In AWS cloud, I am proficient in leveraging services like S3, Redshift, Glue and Lambda to build robust and scalable data pipelines and in Azure I have used Blob, ADF and Synapse services to build pipelines.
 
-I worked with Databricks to migrate data to the cloud, so I can optimize storage and processing costs and ensure the availability and security of critical information.
+I worked with Databricks to migrate data to the cloud, thus generating optimization of storage and processing costs and ensuring the availability and security of critical information.
 
 ## Contacts 📞
 
