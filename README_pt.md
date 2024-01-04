@@ -1,4 +1,4 @@
-<img align="center" src="https://camo.githubusercontent.com/91c1e8da6d9280ff63c610d4205eda9b58dabed0150364325d77a06c189c821d/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966" width="100%" height="400"><br>
+<img align="center" src="https://raw.githubusercontent.com/joaoallmeida/delete/main/flatage.gif" width="100%" height="400"><br>
 
 <h1 align="center"> E aí Galera ✌ Bem vindo ao meu perfil ! </h1>
 
