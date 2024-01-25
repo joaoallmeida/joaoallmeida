@@ -1,10 +1,10 @@
 <h1 align="center"> E aí Galera ✌ Bem vindo ao meu perfil ! </h1>
 
 <div style="display: flex; justify-content: center;">
-    <img style="object-fit: cover; width:100%; height: 50%;" src="https://cutewallpaper.org/28/computer-gif-video-game-wallpaper/it8bit-chill-mario-gif-by-pixel-jeff-ig-pixel-art-cool-pixel-art-chill-wallpaper.gif" ><br>
+    <img style="width:100%; height: 100%;" src="https://cutewallpaper.org/28/computer-gif-video-game-wallpaper/it8bit-chill-mario-gif-by-pixel-jeff-ig-pixel-art-cool-pixel-art-chill-wallpaper.gif" ><br>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 20px">
+<div align="center" style="margin: 20px">
   <li style="display: inline-block;">
     <a href="README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/united-states-of-america-flag-country-nation-union-empire-33135.png" height="13"> English</a>
   </li>
@@ -12,7 +12,6 @@
     <a href="README_pt.md"><img src="https://cdn.iconscout.com/icon/free/png-256/brazil-flag-country-nation-union-empire-32937.png" height="13"> Português</a>
   </li>
 </div>
-
 
 ## Sobre mim 📝
 
@@ -46,7 +45,7 @@ Trabalhei com a Databricks para migrar dados para a nuvem, podendo desta forma g
     <img  src="https://img.shields.io/badge/%20-Linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=black">
     <img  src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-Streamlit-%20?style=for-the-badge&logo=streamlit&logoColor=white&color=%23FF4B4B">
+    <img  src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white">
 </div>
 
 <div align="center"> 
@@ -61,8 +60,6 @@ Trabalhei com a Databricks para migrar dados para a nuvem, podendo desta forma g
 </div>
 
 <div align="center"> 
-<!--     <img  src="https://img.shields.io/badge/-Terminal%20Commands-%23241F31?style=for-the-badge&logo=GNOME Terminal&logoColor=white"> -->
-    <img  src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/-Node.js-%23339933/?style=for-the-badge&logo=node.js&logoColor=black">
     <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white">
     <img  src="https://img.shields.io/badge/-SQL%20Integration%20Services%20-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
