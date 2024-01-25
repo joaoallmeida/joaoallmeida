@@ -4,14 +4,14 @@
     <img style="object-fit: cover; width:100%; height: 50%;" src="https://cutewallpaper.org/28/computer-gif-video-game-wallpaper/it8bit-chill-mario-gif-by-pixel-jeff-ig-pixel-art-cool-pixel-art-chill-wallpaper.gif" ><br>
 </div>
 
-<span style="display: flex; justify-content: center; margin: 20px">
+<div style="display: flex; justify-content: center; margin: 20px">
   <li style="display: inline-block;">
     <a href="README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/united-states-of-america-flag-country-nation-union-empire-33135.png" height="13"> English</a>
   </li>
   <li style="display: inline-block; margin: 0 10px;">
     <a href="README_pt.md"><img src="https://cdn.iconscout.com/icon/free/png-256/brazil-flag-country-nation-union-empire-32937.png" height="13"> Português</a>
   </li>
-</span>
+</div>
 
 
 ## Sobre mim 📝
