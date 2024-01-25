@@ -1,6 +1,18 @@
-<img align="center" src="https://cutewallpaper.org/28/computer-gif-video-game-wallpaper/it8bit-chill-mario-gif-by-pixel-jeff-ig-pixel-art-cool-pixel-art-chill-wallpaper.gif" width="100%" height="400"><br>
-
 <h1 align="center"> E aí Galera ✌ Bem vindo ao meu perfil ! </h1>
+
+<div style="display: flex; justify-content: center;">
+    <img style="object-fit: cover; width:80%; height: 50%;" src="https://cutewallpaper.org/28/computer-gif-video-game-wallpaper/it8bit-chill-mario-gif-by-pixel-jeff-ig-pixel-art-cool-pixel-art-chill-wallpaper.gif" ><br>
+</div>
+
+<span style="display: flex; justify-content: center; margin: 20px">
+  <li style="display: inline-block;">
+    <a href="README.md"><img src="https://cdn.iconscout.com/icon/free/png-256/united-states-of-america-flag-country-nation-union-empire-33135.png" height="13"> English</a>
+  </li>
+  <li style="display: inline-block; margin: 0 10px;">
+    <a href="README_pt.md"><img src="https://cdn.iconscout.com/icon/free/png-256/brazil-flag-country-nation-union-empire-32937.png" height="13"> Português</a>
+  </li>
+</span>
+
 
 ## Sobre mim 📝
 
@@ -33,7 +45,8 @@ Trabalhei com a Databricks para migrar dados para a nuvem, podendo desta forma g
     <img  src="https://img.shields.io/badge/-MySql-%234479A1?style=for-the-badge&logo=MySql&logoColor=white">
     <img  src="https://img.shields.io/badge/%20-Linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=black">
     <img  src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-    <img  src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Streamlit-%20?style=for-the-badge&logo=streamlit&logoColor=white&color=%23FF4B4B">
 </div>
 
 <div align="center"> 
@@ -43,19 +56,24 @@ Trabalhei com a Databricks para migrar dados para a nuvem, podendo desta forma g
     <img src="https://img.shields.io/badge/-Power%20BI-%23F2C811?style=for-the-badge&logo=Power BI&logoColor=black">
     <img src="https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white">
     <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=black">
+    <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
+    
 </div>
 
 <div align="center"> 
-    <img  src="https://img.shields.io/badge/-Terminal%20Commands-%23241F31?style=for-the-badge&logo=GNOME Terminal&logoColor=white">
+<!--     <img  src="https://img.shields.io/badge/-Terminal%20Commands-%23241F31?style=for-the-badge&logo=GNOME Terminal&logoColor=white"> -->
+    <img  src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/-Node.js-%23339933/?style=for-the-badge&logo=node.js&logoColor=black">
+    <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white">
     <img  src="https://img.shields.io/badge/-SQL%20Integration%20Services%20-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
     <img  src="https://img.shields.io/badge/-Microsoft%20Azure-%230078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
 </div>
 
 <div align="center"> 
     <img  src="https://img.shields.io/badge/-vs%20code-%23007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-    <img  src="https://img.shields.io/badge/-Bash%20Script-%234EAA25?style=for-the-badge&logo=GNU Bash&logoColor=white">
     <img  src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
-    <img  src="https://img.shields.io/badge/-Portainer-%2313BEF9?style=for-the-badge&logo=Portainer&logoColor=white"> 
+    <img  src="https://img.shields.io/badge/-Portainer-%2313BEF9?style=for-the-badge&logo=Portainer&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Redshift-%20?style=for-the-badge&logo=amazonredshift&logoColor=white&color=%238C4FFF">
 </div>
 
 <div align="center"> 
@@ -66,7 +84,7 @@ Trabalhei com a Databricks para migrar dados para a nuvem, podendo desta forma g
 
 <div align="center"> 
     <img  src="https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=yellow">
-    <img  src="https://img.shields.io/badge/-C%20Sharp-%23239120?style=for-the-badge&logo=C Sharp&logoColor=white"> 
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Jenkins-%20?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939">
 </div>
 
 <div align="center"> 
@@ -88,35 +106,6 @@ Trabalhei com a Databricks para migrar dados para a nuvem, podendo desta forma g
     <img height='165px' src="https://images.credly.com/size/340x340/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png"> 
 </div>
 
-
-## Atualmente Aprendendo 🧠
-<div>
-    <img src="https://img.shields.io/badge/%20-JavaScript-%23F7DF1E/?style=for-the-badge&logo=JavaScript&color=black">
-    <img src="https://img.shields.io/badge/-Node.js-%23339933/?style=for-the-badge&logo=node.js&logoColor=black">
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white">
-    <img src="https://img.shields.io/badge/-Apache%20Hadoop-%2366CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">
-    <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/-Serverless-%23FD5750?style=for-the-badge&logo=Serverless&logoColor=white">
-    <img src="https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=black">
-    <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white">
-    <img src="https://img.shields.io/badge/-Snowflake-%2329B5E8?style=for-the-badge&logo=Snowflake&logoColor=white">
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/-Cloud%20Architecture-%233693F3?style=for-the-badge&logo=iCloud&logoColor=white">
-    <img src="https://img.shields.io/badge/-Apache%20Hive-%23FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black">
-    <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
-    <img src="https://img.shields.io/badge/-MapReduce-%23FECC00?style=for-the-badge&logoColor=white">
-</div>
-
-
- <!-- - Práticas e técnicas de integração contínua e entrega contínua (CI/CD). -->
 ---
 
 <div align="center">
