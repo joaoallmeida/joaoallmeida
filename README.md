@@ -60,7 +60,7 @@ I worked with Databricks to migrate data to the cloud, thus generating optimizat
     <img src="https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white">
     <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=black">
     <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
-    
+
 </div>
 
 <div align="center"> 
@@ -72,7 +72,8 @@ I worked with Databricks to migrate data to the cloud, thus generating optimizat
 
 <div align="center"> 
     <img  src="https://img.shields.io/badge/-vs%20code-%23007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-    <img  src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Kubernetes-%20?style=for-the-badge&logo=kubernetes&logoColor=white&color=%23326CE5">
+    <img  src="https://img.shields.io/badge/-SQL%20Server-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
     <img  src="https://img.shields.io/badge/-Portainer-%2313BEF9?style=for-the-badge&logo=Portainer&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Redshift-%20?style=for-the-badge&logo=amazonredshift&logoColor=white&color=%238C4FFF">
 </div>
