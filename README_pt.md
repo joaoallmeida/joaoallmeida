@@ -1,7 +1,7 @@
 <h1 align="center"> E aí Galera ✌ Bem vindo ao meu perfil ! </h1>
 
 <div style="display: flex; justify-content: center;">
-    <img style="width:100%;" src="https://cutewallpaper.org/28/computer-gif-video-game-wallpaper/it8bit-chill-mario-gif-by-pixel-jeff-ig-pixel-art-cool-pixel-art-chill-wallpaper.gif" ><br>
+    <img src="https://cutewallpaper.org/28/computer-gif-video-game-wallpaper/it8bit-chill-mario-gif-by-pixel-jeff-ig-pixel-art-cool-pixel-art-chill-wallpaper.gif" width="100%"><br>
 </div>
 
 <div align="center" style="margin: 20px">
