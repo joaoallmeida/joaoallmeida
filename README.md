@@ -1,5 +1,9 @@
 <h1 align="center"> Hey Guys ✌ Welcome to my profile !</h1>
 
+<div style="display: flex; justify-content: center;">
+   <img src="https://raw.githubusercontent.com/joaoallmeida/joaoallmeida/output/snake.svg" alt="Snake animation" />
+</div>
+
 <br>
 
 <table align="center">
