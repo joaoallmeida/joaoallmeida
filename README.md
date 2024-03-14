@@ -1,7 +1,7 @@
 <h1 align="center"> Hey Guys ✌ Welcome to my profile !</h1>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://cutewallpaper.org/28/computer-gif-video-game-wallpaper/it8bit-chill-mario-gif-by-pixel-jeff-ig-pixel-art-cool-pixel-art-chill-wallpaper.gif" width="100%"><br>
+   <img src="https://raw.githubusercontent.com/joaoallmeida/joaoallmeida/output/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
