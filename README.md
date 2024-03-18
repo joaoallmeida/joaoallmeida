@@ -68,6 +68,8 @@ I worked with Databricks to migrate data to the cloud, thus generating optimizat
     <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white">
     <img  src="https://img.shields.io/badge/-SQL%20Integration%20Services%20-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
     <img  src="https://img.shields.io/badge/-Microsoft%20Azure-%230078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
+    <img  src="https://img.shields.io/badge/polars-python?style=for-the-badge&logo=polars&logoColor=white&color=%23CD792C">
+   
 </div>
 
 <div align="center"> 
