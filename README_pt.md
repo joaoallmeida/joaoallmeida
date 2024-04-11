@@ -4,7 +4,7 @@
    <img src="https://raw.githubusercontent.com/joaoallmeida/joaoallmeida/output/snake.svg" alt="Snake animation" />
 </div>
 
-<br>
+---
 
 <table align="center">
     <tr>
@@ -111,8 +111,3 @@ Trabalhei com a Databricks para migrar dados para a nuvem, podendo desta forma g
 </div>
 
 ---
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=joaoallmeida&style=for-the-badge&label=Visualizacões+no+perfil&color=green">
-    <img src="https://img.shields.io/github/followers/joaoallmeida?style=for-the-badge&label=Seguidores&color=blue">
-</div>
