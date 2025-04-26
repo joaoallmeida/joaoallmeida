@@ -1,7 +1,7 @@
 <h1 align="center"> Bem vindo ao meu perfil! ✌ </h1>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtMjI3OTM3cnUwZDhiMmc3N3J0N3Jxdm1qMXU3emdybWZnM2E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif" width="100%">
 </div>
 
 <br>
@@ -26,13 +26,13 @@ Apaixonado por entregar resultados e impulsionar a resolução de problemas por 
 ## Contatos 📞
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/joaovictorasoares/" target="_blank">
-        <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" style="margin-right:5px">
-    </a>
-    <a href="https://www.instagram.com/jaoallmeida_" target="_blank">
-        <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" style="margin-right:5px">
-    </a>
-    <a href="mailto:joaoallmeida96@gmail.com?subject=Olá%20João%20Almeida" target="_blank">
+    <a href="https://www.linkedin.com/in/joaovictorasoares/">
+        <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/jaoallmeida_">
+        <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="mailto:joaoallmeida96@gmail.com?subject=Olá%20João%20Almeida">
         <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white">
     </a>
 </div>

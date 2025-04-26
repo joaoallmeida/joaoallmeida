@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there ✌ Welcome to my profile!</h1>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
+    <img src="gifs/code-dash.gif" width="100%">
 </div>
 
 <br>
@@ -26,11 +26,11 @@ Passionate about delivering results and driving problem-solving through data-dri
 
 <div align="center">
     <a href="https://www.linkedin.com/in/joaovictorasoares/" target="_blank">
-        <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" style="margin-right:5px">
-    </a>
+        <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
+    </a>&nbsp;
     <a href="https://www.instagram.com/jaoallmeida_" target="_blank">
-        <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" style="margin-right:5px">
-    </a>
+        <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white">
+    </a>&nbsp;
     <a href="mailto:joaoallmeida96@gmail.com?subject=Olá%20João%20Almeida" target="_blank">
         <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white">
     </a>
