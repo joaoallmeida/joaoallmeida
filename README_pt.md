@@ -1,7 +1,7 @@
 <h1 align="center"> Bem vindo ao meu perfil! ✌ </h1>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtMjI3OTM3cnUwZDhiMmc3N3J0N3Jxdm1qMXU3emdybWZnM2E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif" width="100%">
+    <img src="gifs/code-dash.gif" width="100%">
 </div>
 
 <br>
