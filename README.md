@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there ✌ Welcome to my profile!</h1>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
 </div>
 
 <br>
@@ -27,10 +27,10 @@ Passionate about delivering results and driving problem-solving through data-dri
 <div align="center">
     <a href="https://www.linkedin.com/in/joaovictorasoares/" target="_blank">
         <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="https://www.instagram.com/jaoallmeida_" target="_blank">
         <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="mailto:joaoallmeida96@gmail.com?subject=Olá%20João%20Almeida" target="_blank">
         <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white">
     </a>
@@ -56,19 +56,19 @@ Passionate about delivering results and driving problem-solving through data-dri
     <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=black">
     <img src="https://img.shields.io/badge/Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Kafka-gray?style=for-the-badge&logo=ApacheKafka&color=%23231F20">
-    <img  src="https://img.shields.io/badge/SSIS-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+    <img  src="https://img.shields.io/badge/SSIS-%23CC2927?style=for-the-badge">
     <img src="https://img.shields.io/badge/Databricks-%23FF3621?style=for-the-badge&logo=Databricks&logoColor=black">
-    <img  src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
+    <img  src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=for-the-badge">
     <!-- <img  src="https://img.shields.io/badge/polars-python?style=for-the-badge&logo=polars&logoColor=white&color=%23CD792C"> -->
-    <img  src="https://img.shields.io/badge/vscode-%23007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+    <img  src="https://img.shields.io/badge/vscode-%23007ACC?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-%20?style=for-the-badge&logo=kubernetes&logoColor=white&color=%23326CE5">
-    <img  src="https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+    <img  src="https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge">
     <img  src="https://img.shields.io/badge/Portainer-%2313BEF9?style=for-the-badge&logo=Portainer&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Redshift-%20?style=for-the-badge&logo=amazonredshift&logoColor=white&color=%238C4FFF">
     <img  src="https://img.shields.io/badge/Shell%20Script-%235391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
     <img  src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE?style=for-the-badge&logo=ApacheAirflow&logoColor=white">
     <img  src="https://img.shields.io/badge/Vim-%23019733?style=for-the-badge&logo=Vim&logoColor=white">
-    <img  src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=yellow">
+    <img  src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-%20?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939">
     <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/cmake-red?style=for-the-badge&logo=cmake&color=%23064F8C">
@@ -81,7 +81,6 @@ Passionate about delivering results and driving problem-solving through data-dri
     <img  height='137px' src="https://github-readme-stats.vercel.app/api?username=joaoallmeida&hide_title=true&count_private=true&show_icons=true&theme=tokyonight"/>
     <img  height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoallmeida&layout=compact&theme=tokyonight"/>
 </div>
-
 
 ## Certifications 🏆
 
