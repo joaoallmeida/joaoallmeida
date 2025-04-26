@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there ✌ Welcome to my profile!</h1>
 
 <div style="display: flex; justify-content: center;">
-    <img src="gifs/code-dash.gif">
+    <img src="gifs/code-dash.gif" width="100%>
 </div>
 
 <br>
