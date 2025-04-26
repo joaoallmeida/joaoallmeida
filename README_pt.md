@@ -27,11 +27,11 @@ Apaixonado por entregar resultados e impulsionar a resolução de problemas por 
 
 <div align="center">
     <a href="https://www.linkedin.com/in/joaovictorasoares/" target="_blank">
-        <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" target="_blank">
-    </a>&nbsp;
+        <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge" style="margin-right:5px">
+    </a>
     <a href="https://www.instagram.com/jaoallmeida_" target="_blank">
-        <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white">
-    </a>&nbsp;
+        <img alt="insta" src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" style="margin-right:5px">
+    </a>
     <a href="mailto:joaoallmeida96@gmail.com?subject=Olá%20João%20Almeida" target="_blank">
         <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white">
     </a>
@@ -53,7 +53,7 @@ Apaixonado por entregar resultados e impulsionar a resolução de problemas por 
     <img src="https://img.shields.io/badge/dbt-gray?style=for-the-badge&logo=dbt">
     <img src="https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=Grafana&logoColor=black">
     <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=black">
-    <img src="https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=Power BI&logoColor=black">
+    <img src="https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge">
     <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=black">
     <img src="https://img.shields.io/badge/Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
