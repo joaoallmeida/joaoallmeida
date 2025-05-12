@@ -92,8 +92,7 @@ Apaixonado por entregar resultados e impulsionar a resolução de problemas por 
     <!-- <img height='165px' src="https://images.credly.com/size/340x340/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png"> -->
 </div>
 
----
 
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
    <img src="https://raw.githubusercontent.com/joaoallmeida/joaoallmeida/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
